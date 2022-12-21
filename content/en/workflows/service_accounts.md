@@ -7,7 +7,7 @@ further_reading:
 - link: "/account_management/org_settings/service_accounts/"
   tag: "Documentation"
   text: "Learn more about Datadog service accounts"
-- link: "/workflows/setup/"
+- link: "/workflows/connections/"
   tag: "Documentation"
   text: "Learn how to create Connections for the actions in your workflow."
 ---
